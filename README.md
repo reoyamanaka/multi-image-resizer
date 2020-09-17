@@ -20,7 +20,7 @@
     <a href="https://github.com/reoyamanaka/multi-image-resizer.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://youtu.be/povSKujVa9A">View Demo</a>
+    <a href="https://youtu.be/povSKujVa9A" target="_blank">View Demo</a>
     .
     <a href="https://github.com/reoyamanaka/multi-image-resizer/issues">Report Bug</a>
   </p>
@@ -91,7 +91,7 @@ pip install natsort
 
 <div align="center">
   <strong>YouTube Demo</strong><br>
-  <a href="https://youtu.be/povSKujVa9A">
+  <a href="https://youtu.be/povSKujVa9A" target="_blank">
     <img src="http://i3.ytimg.com/vi/povSKujVa9A/hqdefault.jpg" alt="Thumbnail" width="560" height="315">
   </a>
 </div>
