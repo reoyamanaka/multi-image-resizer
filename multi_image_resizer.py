@@ -3,7 +3,7 @@ import glob
 import os, sys
 from natsort import natsorted
 
-dirPath = os.path.dirname(sys.modules['__main__'].__file__)
+dirPath = sys.path[0]
 
 image_list = []
 resized_images = []
@@ -35,9 +35,3 @@ if not os.path.exists(new_folder):
 
 for (i, new) in enumerate(resized_images):
     new.save("{}{}".format(new_folder, "/"+namesList[i]+"_resized.jpg"))
-
-
-
-
-        
-
