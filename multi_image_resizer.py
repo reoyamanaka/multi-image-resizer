@@ -12,7 +12,7 @@ ratiosList = []
 namesList = []
 
 #change the image extension accordingly if needed
-modDirPath = dirPath + "/*.jpg"
+modDirPath = dirPath + "/*.JPG"
 
 for filename in natsorted(glob.glob(modDirPath)):
     print(filename)

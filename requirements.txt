@@ -1,0 +1,3 @@
+glob2==0.7
+natsort==7.1.1
+Pillow==2.2.2
